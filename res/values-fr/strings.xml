@@ -238,7 +238,7 @@
     <string name="hex">Hex: </string>
     <string name="hex_hint">#FF000000</string>
     <string name="set">OK</string>
-    <string name="ics_color">Défaut</string>
+    <string name="ics_color">I\nC\nS</string>
     
     <!-- Shortcut picker -->
     <string name="use_custom_app_title">"Changer le raccourci d\'application"</string>
